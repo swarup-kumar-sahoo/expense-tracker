@@ -209,7 +209,7 @@ body {
   }
 
   .chart {
-    padding: 20px;                   /* ✅ larger chart containers */
+    padding: 70px;                   /* ✅ larger chart containers */
   }
 }
 
